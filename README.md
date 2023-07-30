@@ -1,4 +1,4 @@
-# Chess Position Prediction App
+# CV-Chess-Position-Prediction
 
 This repository contains a Streamlit web application for predicting chess positions using a Convolutional Neural Network (CNN) model. The app takes an input image of a chessboard and returns the predicted position in FEN (Forsyth-Edwards Notation) format.
 
@@ -21,7 +21,7 @@ This repository contains a Streamlit web application for predicting chess positi
 
 To run the Chess Position Prediction App locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/chess-position-prediction.git`
+1. Clone this repository: `git clone https://github.com/Mash-Isa/CV-Chess-Position-Prediction.git`
 2. Change into the project directory: `cd chess-position-prediction`
 3. Install the required dependencies: `pip install -r requirements.txt`
 4. Run the Streamlit app: `streamlit run app.py`
@@ -40,5 +40,6 @@ The development of this project was inspired by various resources from the Kaggl
 - [Chess FEN Generator](https://www.kaggle.com/code/koryakinp/chess-fen-generator/notebook)
 - [Chess FEN Generator Improved](https://www.kaggle.com/code/meditech101/chess-fen-generator-improved)
 - [Chess Positions FEN Prediction (EDA + CNN Model)](https://www.kaggle.com/code/ibrahimsoboh/chess-positions-fen-prediction-eda-cnn-model)
+
 
 
